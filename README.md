@@ -262,8 +262,3 @@ B.E. Computer Science and Engineering
 
 Research Area: Artificial Intelligence, Deep Learning, Medical Image Analysis, Data Analytics
 
----
-
-# 📄 License
-
-This project is developed for educational, research, and academic purposes.
